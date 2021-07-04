@@ -1,9 +1,11 @@
-# TrackMania Turbo Scoreboard Recorder and Upload Tool
+# TrackMania Turbo Scoreboard Recorder
 [![GitHub Release](https://img.shields.io/github/release/chrizonix/TrackMania-Turbo-Recorder.svg)](https://github.com/chrizonix/TrackMania-Turbo-Recorder/releases/tag/v1.0.0)
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/chrizonix/TrackMania-Turbo-Recorder/v1.0.0/total.svg)](https://github.com/chrizonix/TrackMania-Turbo-Recorder/releases/tag/v1.0.0)
 [![Github Commits (since latest release)](https://img.shields.io/github/commits-since/chrizonix/TrackMania-Turbo-Recorder/latest.svg)](https://github.com/chrizonix/TrackMania-Turbo-Recorder/compare/v1.0.0...master)
 [![GitHub Repo Size in Bytes](https://img.shields.io/github/repo-size/chrizonix/TrackMania-Turbo-Recorder.svg)](https://github.com/chrizonix/TrackMania-Turbo-Recorder)
 [![Github License](https://img.shields.io/github/license/chrizonix/TrackMania-Turbo-Recorder.svg)](LICENSE.md)
+
+TrackMania Turbo Scoreboard Recorder and Upload Tool
 
 ## Install / Usage
 * Extract the `TurboCup.zip` Package to any Location (e.g. Desktop)
